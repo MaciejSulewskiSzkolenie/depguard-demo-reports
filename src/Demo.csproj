@@ -6,6 +6,6 @@
     <RootNamespace>Demo</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Contoso.Csv" Version="1.0.0" />
+    <PackageReference Include="Contoso.Csv" Version="1.0.1" />
   </ItemGroup>
 </Project>
